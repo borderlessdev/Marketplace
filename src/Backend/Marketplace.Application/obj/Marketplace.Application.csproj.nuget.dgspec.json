@@ -1,0 +1,320 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj": {}
+  },
+  "projects": {
+    "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj",
+        "projectName": "Marketplace.Application",
+        "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj",
+        "packagesPath": "C:\\Users\\borde\\.nuget\\packages\\",
+        "outputPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\borde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj": {
+                "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj"
+              },
+              "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj": {
+                "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj"
+              },
+              "D:\\Arquivos Projetos\\marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj": {
+                "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj",
+        "projectName": "Marketplace.Infrastructure",
+        "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\borde\\.nuget\\packages\\",
+        "outputPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\borde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj": {
+                "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.28, )"
+            },
+            "FluentMigrator": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "FluentMigrator.Runner": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.3.5, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.0-beta.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj",
+        "projectName": "Marketplace.Domain",
+        "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj",
+        "packagesPath": "C:\\Users\\borde\\.nuget\\packages\\",
+        "outputPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\borde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Arquivos Projetos\\marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Arquivos Projetos\\marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj",
+        "projectName": "Marketplace.Communication",
+        "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj",
+        "packagesPath": "C:\\Users\\borde\\.nuget\\packages\\",
+        "outputPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Communication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\borde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

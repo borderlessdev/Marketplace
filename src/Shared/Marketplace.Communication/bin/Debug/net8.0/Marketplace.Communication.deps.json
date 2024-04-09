@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Marketplace.Communication/1.0.0": {
+        "runtime": {
+          "Marketplace.Communication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Marketplace.Communication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\Arquivos Projetos\marketplace\src\Shared\Marketplace.Exceptions\bin\Debug\net8.0\Marketplace.Exceptions.deps.json
+D:\Arquivos Projetos\marketplace\src\Shared\Marketplace.Exceptions\bin\Debug\net8.0\Marketplace.Exceptions.dll
+D:\Arquivos Projetos\marketplace\src\Shared\Marketplace.Exceptions\bin\Debug\net8.0\Marketplace.Exceptions.pdb
+D:\Arquivos Projetos\marketplace\src\Shared\Marketplace.Exceptions\obj\Debug\net8.0\Marketplace.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos Projetos\marketplace\src\Shared\Marketplace.Exceptions\obj\Debug\net8.0\Marketplace.Exceptions.AssemblyInfoInputs.cache
+D:\Arquivos Projetos\marketplace\src\Shared\Marketplace.Exceptions\obj\Debug\net8.0\Marketplace.Exceptions.AssemblyInfo.cs
+D:\Arquivos Projetos\marketplace\src\Shared\Marketplace.Exceptions\obj\Debug\net8.0\Marketplace.Exceptions.csproj.CoreCompileInputs.cache
+D:\Arquivos Projetos\marketplace\src\Shared\Marketplace.Exceptions\obj\Debug\net8.0\Marketplace.Exceptions.sourcelink.json
+D:\Arquivos Projetos\marketplace\src\Shared\Marketplace.Exceptions\obj\Debug\net8.0\Marketplace.Exceptions.dll
+D:\Arquivos Projetos\marketplace\src\Shared\Marketplace.Exceptions\obj\Debug\net8.0\refint\Marketplace.Exceptions.dll
+D:\Arquivos Projetos\marketplace\src\Shared\Marketplace.Exceptions\obj\Debug\net8.0\Marketplace.Exceptions.pdb
+D:\Arquivos Projetos\marketplace\src\Shared\Marketplace.Exceptions\obj\Debug\net8.0\ref\Marketplace.Exceptions.dll

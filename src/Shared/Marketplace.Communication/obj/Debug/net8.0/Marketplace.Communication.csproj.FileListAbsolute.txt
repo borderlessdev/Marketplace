@@ -1,0 +1,23 @@
+P:\Borderless\Marketplace\src\Shared\Marketplace.Communication\bin\Debug\net8.0\Marketplace.Communication.deps.json
+P:\Borderless\Marketplace\src\Shared\Marketplace.Communication\bin\Debug\net8.0\Marketplace.Communication.dll
+P:\Borderless\Marketplace\src\Shared\Marketplace.Communication\bin\Debug\net8.0\Marketplace.Communication.pdb
+P:\Borderless\Marketplace\src\Shared\Marketplace.Communication\obj\Debug\net8.0\Marketplace.Communication.GeneratedMSBuildEditorConfig.editorconfig
+P:\Borderless\Marketplace\src\Shared\Marketplace.Communication\obj\Debug\net8.0\Marketplace.Communication.AssemblyInfoInputs.cache
+P:\Borderless\Marketplace\src\Shared\Marketplace.Communication\obj\Debug\net8.0\Marketplace.Communication.AssemblyInfo.cs
+P:\Borderless\Marketplace\src\Shared\Marketplace.Communication\obj\Debug\net8.0\Marketplace.Communication.csproj.CoreCompileInputs.cache
+P:\Borderless\Marketplace\src\Shared\Marketplace.Communication\obj\Debug\net8.0\Marketplace.Communication.dll
+P:\Borderless\Marketplace\src\Shared\Marketplace.Communication\obj\Debug\net8.0\refint\Marketplace.Communication.dll
+P:\Borderless\Marketplace\src\Shared\Marketplace.Communication\obj\Debug\net8.0\Marketplace.Communication.pdb
+P:\Borderless\Marketplace\src\Shared\Marketplace.Communication\obj\Debug\net8.0\ref\Marketplace.Communication.dll
+D:\Arquivos Projetos\marketplace\src\Shared\Marketplace.Communication\bin\Debug\net8.0\Marketplace.Communication.deps.json
+D:\Arquivos Projetos\marketplace\src\Shared\Marketplace.Communication\bin\Debug\net8.0\Marketplace.Communication.dll
+D:\Arquivos Projetos\marketplace\src\Shared\Marketplace.Communication\bin\Debug\net8.0\Marketplace.Communication.pdb
+D:\Arquivos Projetos\marketplace\src\Shared\Marketplace.Communication\obj\Debug\net8.0\Marketplace.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos Projetos\marketplace\src\Shared\Marketplace.Communication\obj\Debug\net8.0\Marketplace.Communication.AssemblyInfoInputs.cache
+D:\Arquivos Projetos\marketplace\src\Shared\Marketplace.Communication\obj\Debug\net8.0\Marketplace.Communication.AssemblyInfo.cs
+D:\Arquivos Projetos\marketplace\src\Shared\Marketplace.Communication\obj\Debug\net8.0\Marketplace.Communication.csproj.CoreCompileInputs.cache
+D:\Arquivos Projetos\marketplace\src\Shared\Marketplace.Communication\obj\Debug\net8.0\Marketplace.Communication.sourcelink.json
+D:\Arquivos Projetos\marketplace\src\Shared\Marketplace.Communication\obj\Debug\net8.0\Marketplace.Communication.dll
+D:\Arquivos Projetos\marketplace\src\Shared\Marketplace.Communication\obj\Debug\net8.0\refint\Marketplace.Communication.dll
+D:\Arquivos Projetos\marketplace\src\Shared\Marketplace.Communication\obj\Debug\net8.0\Marketplace.Communication.pdb
+D:\Arquivos Projetos\marketplace\src\Shared\Marketplace.Communication\obj\Debug\net8.0\ref\Marketplace.Communication.dll

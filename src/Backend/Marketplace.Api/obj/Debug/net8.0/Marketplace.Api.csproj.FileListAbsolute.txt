@@ -1,0 +1,203 @@
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\Marketplace.Api.csproj.AssemblyReference.cache
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\Marketplace.Api.GeneratedMSBuildEditorConfig.editorconfig
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\Marketplace.Api.AssemblyInfoInputs.cache
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\Marketplace.Api.AssemblyInfo.cs
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\Marketplace.Api.csproj.CoreCompileInputs.cache
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\Marketplace.Api.MvcApplicationPartsAssemblyInfo.cache
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\appsettings.Development.json
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\appsettings.json
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Marketplace.Api.exe
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Marketplace.Api.deps.json
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Marketplace.Api.runtimeconfig.json
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Marketplace.Api.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Marketplace.Api.pdb
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Marketplace.Communication.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Marketplace.Communication.pdb
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\staticwebassets.build.json
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\staticwebassets.development.json
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\staticwebassets\msbuild.Marketplace.Api.Microsoft.AspNetCore.StaticWebAssets.props
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Marketplace.Api.props
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Marketplace.Api.props
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Marketplace.Api.props
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\staticwebassets.pack.json
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\scopedcss\bundle\Marketplace.Api.styles.css
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\Marketplace.Api.csproj.CopyComplete
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\Marketplace.Api.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\refint\Marketplace.Api.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\Marketplace.Api.pdb
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\Marketplace.Api.genruntimeconfig.cache
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\ref\Marketplace.Api.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Azure.Core.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Azure.Identity.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Dapper.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FirebirdSql.Data.FirebirdClient.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Abstractions.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Extensions.MySql.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Extensions.Oracle.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Extensions.Postgres.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Extensions.Snowflake.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Extensions.SqlServer.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Runner.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Runner.Core.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Runner.Db2.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Runner.Firebird.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Runner.Hana.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Runner.MySql.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Runner.Oracle.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Runner.Postgres.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Runner.Redshift.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Runner.Snowflake.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Runner.SQLite.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Runner.SqlServer.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\MySqlConnector.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\System.Memory.Data.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\de-DE\FluentMigrator.Abstractions.resources.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Marketplace.Infrastructure.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Martkeplace.Domain.dll
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Marketplace.Infrastructure.pdb
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Martkeplace.Domain.pdb
+P:\Borderless\Marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\Marketplace.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\appsettings.Development.json
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\appsettings.json
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Marketplace.Api.exe
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Marketplace.Api.deps.json
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Marketplace.Api.runtimeconfig.json
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Marketplace.Api.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Marketplace.Api.pdb
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Azure.Core.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Azure.Identity.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Dapper.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FirebirdSql.Data.FirebirdClient.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Abstractions.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Extensions.MySql.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Extensions.Oracle.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Extensions.Postgres.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Extensions.Snowflake.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Extensions.SqlServer.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Runner.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Runner.Core.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Runner.Db2.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Runner.Firebird.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Runner.Hana.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Runner.MySql.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Runner.Oracle.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Runner.Postgres.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Runner.Redshift.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Runner.Snowflake.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Runner.SQLite.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentMigrator.Runner.SqlServer.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\MySqlConnector.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\de-DE\FluentMigrator.Abstractions.resources.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Marketplace.Communication.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Marketplace.Infrastructure.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Marketplace.Communication.pdb
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Marketplace.Infrastructure.pdb
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\Marketplace.Api.csproj.AssemblyReference.cache
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\Marketplace.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\Marketplace.Api.AssemblyInfoInputs.cache
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\Marketplace.Api.AssemblyInfo.cs
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\Marketplace.Api.csproj.CoreCompileInputs.cache
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\Marketplace.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\Marketplace.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\Marketplace.Api.sourcelink.json
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\staticwebassets\msbuild.Marketplace.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Marketplace.Api.props
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Marketplace.Api.props
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Marketplace.Api.props
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\scopedcss\bundle\Marketplace.Api.styles.css
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\Marketpl.28BBD493.Up2Date
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\Marketplace.Api.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\refint\Marketplace.Api.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\Marketplace.Api.pdb
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\Marketplace.Api.genruntimeconfig.cache
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\obj\Debug\net8.0\ref\Marketplace.Api.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Marketplace.Domain.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Marketplace.Domain.pdb
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\AutoMapper.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\FluentValidation.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Marketplace.Application.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Api\bin\Debug\net8.0\Marketplace.Application.pdb

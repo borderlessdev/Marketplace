@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Arquivos Projetos\\Marketplace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34E4598E-BD4A-497E-8A55-17E0FEE807ED}|src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj|d:\\arquivos projetos\\marketplace\\src\\backend\\marketplace.infrastructure\\bootstraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E4598E-BD4A-497E-8A55-17E0FEE807ED}|src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj|solutionrelative:src\\backend\\marketplace.infrastructure\\bootstraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E4598E-BD4A-497E-8A55-17E0FEE807ED}|src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj|d:\\arquivos projetos\\marketplace\\src\\backend\\marketplace.infrastructure\\repositoryaccess\\workunity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E4598E-BD4A-497E-8A55-17E0FEE807ED}|src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj|solutionrelative:src\\backend\\marketplace.infrastructure\\repositoryaccess\\workunity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53FF813-F6AC-4C69-B79A-E4987A5631C7}|src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj|d:\\arquivos projetos\\marketplace\\src\\backend\\martkeplace.domain\\marketplace.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D53FF813-F6AC-4C69-B79A-E4987A5631C7}|src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj|solutionrelative:src\\backend\\martkeplace.domain\\marketplace.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53FF813-F6AC-4C69-B79A-E4987A5631C7}|src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj|d:\\arquivos projetos\\marketplace\\src\\backend\\martkeplace.domain\\repository\\iworkunity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53FF813-F6AC-4C69-B79A-E4987A5631C7}|src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj|solutionrelative:src\\backend\\martkeplace.domain\\repository\\iworkunity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36384F0F-EC20-47A3-B88D-563077FFEF53}|src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj|d:\\arquivos projetos\\marketplace\\src\\backend\\marketplace.application\\usecases\\user\\signup\\signupusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36384F0F-EC20-47A3-B88D-563077FFEF53}|src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj|solutionrelative:src\\backend\\marketplace.application\\usecases\\user\\signup\\signupusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36384F0F-EC20-47A3-B88D-563077FFEF53}|src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj|d:\\arquivos projetos\\marketplace\\src\\backend\\marketplace.application\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36384F0F-EC20-47A3-B88D-563077FFEF53}|src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj|solutionrelative:src\\backend\\marketplace.application\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46DEF45F-4701-4229-8539-9DFC4443E26E}|src\\Backend\\Marketplace.Api\\Marketplace.Api.csproj|d:\\arquivos projetos\\marketplace\\src\\backend\\marketplace.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46DEF45F-4701-4229-8539-9DFC4443E26E}|src\\Backend\\Marketplace.Api\\Marketplace.Api.csproj|solutionrelative:src\\backend\\marketplace.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46DEF45F-4701-4229-8539-9DFC4443E26E}|src\\Backend\\Marketplace.Api\\Marketplace.Api.csproj|d:\\arquivos projetos\\marketplace\\src\\backend\\marketplace.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46DEF45F-4701-4229-8539-9DFC4443E26E}|src\\Backend\\Marketplace.Api\\Marketplace.Api.csproj|solutionrelative:src\\backend\\marketplace.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkUnity.cs",
+              "DocumentMoniker": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\RepositoryAccess\\WorkUnity.cs",
+              "RelativeDocumentMoniker": "src\\Backend\\Marketplace.Infrastructure\\RepositoryAccess\\WorkUnity.cs",
+              "ToolTip": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\RepositoryAccess\\WorkUnity.cs",
+              "RelativeToolTip": "src\\Backend\\Marketplace.Infrastructure\\RepositoryAccess\\WorkUnity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T21:11:16.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Marketplace.Domain",
+              "DocumentMoniker": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj",
+              "RelativeDocumentMoniker": "src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj",
+              "ToolTip": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj",
+              "RelativeToolTip": "src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-09T21:10:31.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bootstraper.cs",
+              "DocumentMoniker": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Bootstraper.cs",
+              "RelativeDocumentMoniker": "src\\Backend\\Marketplace.Infrastructure\\Bootstraper.cs",
+              "ToolTip": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Bootstraper.cs",
+              "RelativeToolTip": "src\\Backend\\Marketplace.Infrastructure\\Bootstraper.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwBsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T21:02:16.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IWorkUnity.cs",
+              "DocumentMoniker": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Repository\\IWorkUnity.cs",
+              "RelativeDocumentMoniker": "src\\Backend\\Martkeplace.Domain\\Repository\\IWorkUnity.cs",
+              "ToolTip": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Repository\\IWorkUnity.cs",
+              "RelativeToolTip": "src\\Backend\\Martkeplace.Domain\\Repository\\IWorkUnity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T21:01:01.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignupUseCase.cs",
+              "DocumentMoniker": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Application\\UseCases\\User\\Signup\\SignupUseCase.cs",
+              "RelativeDocumentMoniker": "src\\Backend\\Marketplace.Application\\UseCases\\User\\Signup\\SignupUseCase.cs",
+              "ToolTip": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Application\\UseCases\\User\\Signup\\SignupUseCase.cs",
+              "RelativeToolTip": "src\\Backend\\Marketplace.Application\\UseCases\\User\\Signup\\SignupUseCase.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:58:30.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\Backend\\Marketplace.Api\\appsettings.Development.json",
+              "ToolTip": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Api\\appsettings.Development.json",
+              "RelativeToolTip": "src\\Backend\\Marketplace.Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T20:56:05.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Backend\\Marketplace.Api\\Program.cs",
+              "ToolTip": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Api\\Program.cs",
+              "RelativeToolTip": "src\\Backend\\Marketplace.Api\\Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAqwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:45:09.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bootstrapper.cs",
+              "DocumentMoniker": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Application\\Bootstrapper.cs",
+              "RelativeDocumentMoniker": "src\\Backend\\Marketplace.Application\\Bootstrapper.cs",
+              "ToolTip": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Application\\Bootstrapper.cs",
+              "RelativeToolTip": "src\\Backend\\Marketplace.Application\\Bootstrapper.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA9wCYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:27:55.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
