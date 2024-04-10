@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Configuration;
 
-namespace Martkeplace.Domain.Extension;
+namespace Marketplace.Domain.Extension;
 
 public static class RepositoryExtension
 {

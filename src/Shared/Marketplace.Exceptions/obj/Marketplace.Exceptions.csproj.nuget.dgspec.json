@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Arquivos Projetos\\marketplace\\src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj": {}
+    "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj": {}
   },
   "projects": {
-    "D:\\Arquivos Projetos\\marketplace\\src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj": {
+    "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Arquivos Projetos\\marketplace\\src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj",
+        "projectUniqueName": "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj",
         "projectName": "Marketplace.Exceptions",
-        "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj",
+        "projectPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj",
         "packagesPath": "C:\\Users\\borde\\.nuget\\packages\\",
         "outputPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\obj\\",
         "projectStyle": "PackageReference",

@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 using Marketplace.Communication.Request;
-using Martkeplace.Domain.Entity;
+using Marketplace.Domain.Entity;
 
 namespace Marketplace.Application.Services.AutoMapper;
 

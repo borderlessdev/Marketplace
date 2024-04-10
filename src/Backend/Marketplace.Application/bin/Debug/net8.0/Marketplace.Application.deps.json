@@ -12,6 +12,7 @@
           "FluentValidation": "11.9.0",
           "Marketplace.Communication": "1.0.0",
           "Marketplace.Domain": "1.0.0",
+          "Marketplace.Exceptions": "1.0.0",
           "Marketplace.Infrastructure": "1.0.0",
           "System.IdentityModel.Tokens.Jwt": "7.3.1"
         },
@@ -882,6 +883,11 @@
           "Marketplace.Domain.dll": {}
         }
       },
+      "Marketplace.Exceptions/1.0.0": {
+        "runtime": {
+          "Marketplace.Exceptions.dll": {}
+        }
+      },
       "Marketplace.Infrastructure/1.0.0": {
         "dependencies": {
           "Dapper": "2.1.28",
@@ -1459,6 +1465,11 @@
       "sha512": ""
     },
     "Marketplace.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Marketplace.Exceptions/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

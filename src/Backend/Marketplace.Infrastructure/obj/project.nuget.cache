@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TG23aa6sbG2zAphLCde8Y6ZDooi9gl/t5Z1MWSmr0zufmGDiTD8kNA0cyWOIaSqdEAo+aHoyFr1RIj/8TCR0wQ==",
+  "dgSpecHash": "fhsmHCKZrslhespAY5c3dYD6vcI55HzqTcQjz/w4k8lO19Qup0f5CuHTm/1pUm+idkqxo10dgm0FKZ8WbYq36w==",
   "success": true,
-  "projectFilePath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj",
+  "projectFilePath": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\borde\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\borde\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

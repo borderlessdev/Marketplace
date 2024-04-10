@@ -1416,6 +1416,16 @@
           "bin/placeholder/Marketplace.Domain.dll": {}
         }
       },
+      "Marketplace.Exceptions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Marketplace.Exceptions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Marketplace.Exceptions.dll": {}
+        }
+      },
       "Marketplace.Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -3517,6 +3527,11 @@
       "path": "../Martkeplace.Domain/Marketplace.Domain.csproj",
       "msbuildProject": "../Martkeplace.Domain/Marketplace.Domain.csproj"
     },
+    "Marketplace.Exceptions/1.0.0": {
+      "type": "project",
+      "path": "../../Shared/Marketplace.Exceptions/Marketplace.Exceptions.csproj",
+      "msbuildProject": "../../Shared/Marketplace.Exceptions/Marketplace.Exceptions.csproj"
+    },
     "Marketplace.Infrastructure/1.0.0": {
       "type": "project",
       "path": "../Marketplace.Infrastructure/Marketplace.Infrastructure.csproj",
@@ -3529,6 +3544,7 @@
       "FluentValidation >= 11.9.0",
       "Marketplace.Communication >= 1.0.0",
       "Marketplace.Domain >= 1.0.0",
+      "Marketplace.Exceptions >= 1.0.0",
       "Marketplace.Infrastructure >= 1.0.0",
       "System.IdentityModel.Tokens.Jwt >= 7.3.1"
     ]
@@ -3539,11 +3555,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj",
+      "projectUniqueName": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj",
       "projectName": "Marketplace.Application",
-      "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj",
+      "projectPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj",
       "packagesPath": "C:\\Users\\borde\\.nuget\\packages\\",
-      "outputPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Application\\obj\\",
+      "outputPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\borde\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3560,14 +3576,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj": {
-              "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj"
+            "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj": {
+              "projectPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj"
             },
-            "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj": {
-              "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj"
+            "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj": {
+              "projectPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj"
             },
-            "D:\\Arquivos Projetos\\marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj": {
-              "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj"
+            "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj": {
+              "projectPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj"
+            },
+            "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj": {
+              "projectPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj"
             }
           }
         }

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Marketplace.Domain
-build_property.ProjectDir = D:\Arquivos Projetos\marketplace\src\Backend\Martkeplace.Domain\
+build_property.ProjectDir = D:\Arquivos Projetos\Marketplace\src\Backend\Martkeplace.Domain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

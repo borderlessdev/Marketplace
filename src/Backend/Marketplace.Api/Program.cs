@@ -1,8 +1,9 @@
 using Marketplace.Application;
 using Marketplace.Application.Services.AutoMapper;
 using Marketplace.Infrastructure.Migrations;
-using Marketplace.Infrastructurel;
-using Martkeplace.Domain.Extension;
+using Marketplace.Domain.Extension;
+using Marketplace.Infrastructure;
+using Marketplace.Api.Filtros;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -26,11 +27,13 @@ builder.Services.AddScoped(prov => new AutoMapper.MapperConfiguration(cfg =>
     cfg.AddProfile(new AutoMapperConfig());
 }).CreateMapper());
 
-// repository
+// exceptions
 
-builder.Services.AddingRepository(builder.Configuration);
+builder.Services.AddMvc(option => option.Filters.Add(typeof(ExceptionFilter)));
 
 // bootstrapper application
+
+builder.Services.AddingInfrastructure(builder.Configuration);
 
 builder.Services.AddApplication(builder.Configuration);
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jnOyIZu700XiN2QVMDwqAFKKo1YqyqQDmla7uo7yiWkVSWF/WntkJFyYW/Ai4fOmbRRlYe+YnqT5wzOPVVCjaw==",
+  "dgSpecHash": "75UfJBKnF6rTmW2GMnBmtkrIXybBSL/TOct7/zLabKYkhANdj49LOi9uKkichFeGxilUIy5fBtar5l0wyywhNQ==",
   "success": true,
-  "projectFilePath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj",
+  "projectFilePath": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\borde\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\borde\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

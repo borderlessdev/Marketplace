@@ -1,4 +1,4 @@
-﻿using Martkeplace.Domain.Entity;
+﻿using Marketplace.Domain.Entity;
 using Microsoft.EntityFrameworkCore;
 
 namespace Marketplace.Infrastructure;

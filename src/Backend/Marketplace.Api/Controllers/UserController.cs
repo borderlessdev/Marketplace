@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Marketplace.Api.Controllers;
 
-public class UsuarioController : MarketplaceController
+public class UserController : MarketplaceController
 {
     [HttpPost]
     [ProducesResponseType(StatusCodes.Status201Created)]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wPw/6/B2dxJ9cF+LjoxlUlBL8mx5G0TfuV+LwQRxU+kGcPBQXQ4Gls9hCdwF2mA2Eypyj3E7oDL7u8DwqwxqKg==",
+  "dgSpecHash": "GyR9rsli5Re+i/+M5JdLmw9O2D6DqBZG9b5Jhx94xrvecsVTTTqWQdsNbg4vmfzLYzTD3daZ6au6AAZ0A6Gehw==",
   "success": true,
-  "projectFilePath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj",
+  "projectFilePath": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\borde\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\borde\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

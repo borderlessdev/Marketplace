@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "81IUJFmGZg8jjsbRAr6z7XQz0pTI+GWtq7r58hU7TQ/M3YJdzU4ep7D7fqiMTlfKtTOHHQqZgKIcwUquWZQCzQ==",
+  "dgSpecHash": "LEN66YDnjfkDn+kvpiqK62OdGiO5/Fvah40CszwC1kGZJ7BCjAtiNjTPdbRiICpZ5kpztdJuA543fLqELjaPPQ==",
   "success": true,
-  "projectFilePath": "D:\\Arquivos Projetos\\marketplace\\src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj",
+  "projectFilePath": "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

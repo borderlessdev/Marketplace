@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Arquivos Projetos\\marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj": {}
+    "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj": {}
   },
   "projects": {
-    "D:\\Arquivos Projetos\\marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj": {
+    "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Arquivos Projetos\\marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj",
+        "projectUniqueName": "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj",
         "projectName": "Marketplace.Communication",
-        "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj",
+        "projectPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj",
         "packagesPath": "C:\\Users\\borde\\.nuget\\packages\\",
         "outputPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Communication\\obj\\",
         "projectStyle": "PackageReference",

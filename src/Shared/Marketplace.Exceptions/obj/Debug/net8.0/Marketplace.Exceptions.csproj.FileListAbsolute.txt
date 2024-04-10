@@ -10,3 +10,5 @@ D:\Arquivos Projetos\marketplace\src\Shared\Marketplace.Exceptions\obj\Debug\net
 D:\Arquivos Projetos\marketplace\src\Shared\Marketplace.Exceptions\obj\Debug\net8.0\refint\Marketplace.Exceptions.dll
 D:\Arquivos Projetos\marketplace\src\Shared\Marketplace.Exceptions\obj\Debug\net8.0\Marketplace.Exceptions.pdb
 D:\Arquivos Projetos\marketplace\src\Shared\Marketplace.Exceptions\obj\Debug\net8.0\ref\Marketplace.Exceptions.dll
+D:\Arquivos Projetos\Marketplace\src\Shared\Marketplace.Exceptions\obj\Debug\net8.0\Marketplace.Exceptions.ResourceErrorMessages.resources
+D:\Arquivos Projetos\Marketplace\src\Shared\Marketplace.Exceptions\obj\Debug\net8.0\Marketplace.Exceptions.csproj.GenerateResource.cache

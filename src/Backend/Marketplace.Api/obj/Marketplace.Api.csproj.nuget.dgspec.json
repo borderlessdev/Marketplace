@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Api\\Marketplace.Api.csproj": {}
+    "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Api\\Marketplace.Api.csproj": {}
   },
   "projects": {
-    "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Api\\Marketplace.Api.csproj": {
+    "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Api\\Marketplace.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Api\\Marketplace.Api.csproj",
+        "projectUniqueName": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Api\\Marketplace.Api.csproj",
         "projectName": "Marketplace.Api",
-        "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Api\\Marketplace.Api.csproj",
+        "projectPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Api\\Marketplace.Api.csproj",
         "packagesPath": "C:\\Users\\borde\\.nuget\\packages\\",
-        "outputPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Api\\obj\\",
+        "outputPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\borde\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,14 +28,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj": {
-                "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj"
+              "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj": {
+                "projectPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj"
               },
-              "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj": {
-                "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj"
+              "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj": {
+                "projectPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj"
               },
-              "D:\\Arquivos Projetos\\marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj": {
-                "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj"
+              "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj": {
+                "projectPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj": {
+    "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj",
+        "projectUniqueName": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj",
         "projectName": "Marketplace.Application",
-        "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj",
+        "projectPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj",
         "packagesPath": "C:\\Users\\borde\\.nuget\\packages\\",
-        "outputPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Application\\obj\\",
+        "outputPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\borde\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -107,14 +107,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj": {
-                "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj"
+              "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj": {
+                "projectPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj"
               },
-              "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj": {
-                "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj"
+              "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj": {
+                "projectPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj"
               },
-              "D:\\Arquivos Projetos\\marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj": {
-                "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj"
+              "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj": {
+                "projectPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj"
+              },
+              "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj": {
+                "projectPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj"
               }
             }
           }
@@ -167,14 +170,14 @@
         }
       }
     },
-    "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj": {
+    "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj",
         "projectName": "Marketplace.Infrastructure",
-        "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj",
+        "projectPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\borde\\.nuget\\packages\\",
-        "outputPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Infrastructure\\obj\\",
+        "outputPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\borde\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -191,8 +194,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj": {
-                "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj"
+              "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj": {
+                "projectPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj"
               }
             }
           }
@@ -269,14 +272,14 @@
         }
       }
     },
-    "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj": {
+    "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj",
+        "projectUniqueName": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj",
         "projectName": "Marketplace.Domain",
-        "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj",
+        "projectPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj",
         "packagesPath": "C:\\Users\\borde\\.nuget\\packages\\",
-        "outputPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\obj\\",
+        "outputPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Martkeplace.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\borde\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -335,14 +338,74 @@
         }
       }
     },
-    "D:\\Arquivos Projetos\\marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj": {
+    "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Arquivos Projetos\\marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj",
+        "projectUniqueName": "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj",
         "projectName": "Marketplace.Communication",
-        "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj",
+        "projectPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj",
         "packagesPath": "C:\\Users\\borde\\.nuget\\packages\\",
         "outputPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Communication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\borde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj",
+        "projectName": "Marketplace.Exceptions",
+        "projectPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj",
+        "packagesPath": "C:\\Users\\borde\\.nuget\\packages\\",
+        "outputPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\borde\\AppData\\Roaming\\NuGet\\NuGet.Config",

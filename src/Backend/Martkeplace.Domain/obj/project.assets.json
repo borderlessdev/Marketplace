@@ -162,11 +162,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj",
+      "projectUniqueName": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj",
       "projectName": "Marketplace.Domain",
-      "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj",
+      "projectPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj",
       "packagesPath": "C:\\Users\\borde\\.nuget\\packages\\",
-      "outputPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\obj\\",
+      "outputPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Martkeplace.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\borde\\AppData\\Roaming\\NuGet\\NuGet.Config",

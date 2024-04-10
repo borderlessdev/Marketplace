@@ -29,3 +29,19 @@ D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Infrastructure\obj\Debu
 D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Infrastructure\obj\Debug\net8.0\ref\Marketplace.Infrastructure.dll
 D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Infrastructure\bin\Debug\net8.0\Marketplace.Domain.dll
 D:\Arquivos Projetos\marketplace\src\Backend\Marketplace.Infrastructure\bin\Debug\net8.0\Marketplace.Domain.pdb
+P:\Borderless\new\Marketplace\src\Backend\Marketplace.Infrastructure\obj\Debug\net8.0\Marketplace.Infrastructure.csproj.AssemblyReference.cache
+P:\Borderless\new\Marketplace\src\Backend\Marketplace.Infrastructure\obj\Debug\net8.0\Marketplace.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+P:\Borderless\new\Marketplace\src\Backend\Marketplace.Infrastructure\obj\Debug\net8.0\Marketplace.Infrastructure.AssemblyInfoInputs.cache
+P:\Borderless\new\Marketplace\src\Backend\Marketplace.Infrastructure\obj\Debug\net8.0\Marketplace.Infrastructure.AssemblyInfo.cs
+P:\Borderless\new\Marketplace\src\Backend\Marketplace.Infrastructure\obj\Debug\net8.0\Marketplace.Infrastructure.csproj.CoreCompileInputs.cache
+P:\Borderless\new\Marketplace\src\Backend\Marketplace.Infrastructure\obj\Debug\net8.0\Marketplace.Infrastructure.sourcelink.json
+P:\Borderless\new\Marketplace\src\Backend\Marketplace.Infrastructure\obj\Debug\net8.0\Marketplace.Infrastructure.dll
+P:\Borderless\new\Marketplace\src\Backend\Marketplace.Infrastructure\obj\Debug\net8.0\refint\Marketplace.Infrastructure.dll
+P:\Borderless\new\Marketplace\src\Backend\Marketplace.Infrastructure\obj\Debug\net8.0\Marketplace.Infrastructure.pdb
+P:\Borderless\new\Marketplace\src\Backend\Marketplace.Infrastructure\bin\Debug\net8.0\Marketplace.Infrastructure.deps.json
+P:\Borderless\new\Marketplace\src\Backend\Marketplace.Infrastructure\bin\Debug\net8.0\Marketplace.Infrastructure.dll
+P:\Borderless\new\Marketplace\src\Backend\Marketplace.Infrastructure\bin\Debug\net8.0\Marketplace.Infrastructure.pdb
+P:\Borderless\new\Marketplace\src\Backend\Marketplace.Infrastructure\bin\Debug\net8.0\Marketplace.Domain.dll
+P:\Borderless\new\Marketplace\src\Backend\Marketplace.Infrastructure\bin\Debug\net8.0\Marketplace.Domain.pdb
+P:\Borderless\new\Marketplace\src\Backend\Marketplace.Infrastructure\obj\Debug\net8.0\Marketpl.6F2D58E5.Up2Date
+P:\Borderless\new\Marketplace\src\Backend\Marketplace.Infrastructure\obj\Debug\net8.0\ref\Marketplace.Infrastructure.dll

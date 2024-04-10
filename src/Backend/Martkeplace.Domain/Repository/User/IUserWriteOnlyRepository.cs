@@ -1,6 +1,5 @@
-﻿namespace Marketplace.Domain.Repository.User;
-
+﻿
 public interface IUserWriteOnlyRepository
 {
-    Task Create(Entity.User user);
+    Task Create(Marketplace.Domain.Entity.User user);
 }

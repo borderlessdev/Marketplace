@@ -1,4 +1,4 @@
-﻿namespace Martkeplace.Domain.Entity;
+﻿namespace Marketplace.Domain.Entity;
 
 public class BaseEntity
 {

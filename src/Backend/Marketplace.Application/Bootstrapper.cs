@@ -1,5 +1,6 @@
 ﻿using Marketplace.Application.Services.Encrypter;
 using Marketplace.Application.Services.Token;
+using Marketplace.Application.UseCases.Login;
 using Marketplace.Application.UseCases.User.Signup;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -37,6 +38,7 @@ public static class Bootstrapper
     private static void AddingUseCases(IServiceCollection services)
     {
         services.AddScoped<ISignupUseCase, SignupUseCase>();
+        services.AddScoped<ILoginUseCase, LoginUseCase>();
     }
 
     

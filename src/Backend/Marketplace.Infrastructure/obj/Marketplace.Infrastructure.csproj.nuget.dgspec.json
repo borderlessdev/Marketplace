@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj": {}
+    "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj": {
+    "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj",
         "projectName": "Marketplace.Infrastructure",
-        "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj",
+        "projectPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\borde\\.nuget\\packages\\",
-        "outputPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Marketplace.Infrastructure\\obj\\",
+        "outputPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\borde\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj": {
-                "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj"
+              "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj": {
+                "projectPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj"
               }
             }
           }
@@ -106,14 +106,14 @@
         }
       }
     },
-    "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj": {
+    "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj",
+        "projectUniqueName": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj",
         "projectName": "Marketplace.Domain",
-        "projectPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj",
+        "projectPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj",
         "packagesPath": "C:\\Users\\borde\\.nuget\\packages\\",
-        "outputPath": "D:\\Arquivos Projetos\\marketplace\\src\\Backend\\Martkeplace.Domain\\obj\\",
+        "outputPath": "D:\\Arquivos Projetos\\Marketplace\\src\\Backend\\Martkeplace.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\borde\\AppData\\Roaming\\NuGet\\NuGet.Config",
